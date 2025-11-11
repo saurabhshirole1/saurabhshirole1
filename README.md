@@ -33,8 +33,7 @@ Currently, I’m exploring **Generative AI** and **Computer Vision** to push the
 
 ### 📫 Connect With Me  
 
-🌐 [**GitHub**](https://github.com/saurabhshirole1)  
-💼 [**LinkedIn**](https://www.linkedin.com/in/saurabhshirole1/)  
+🌐 [**GitHub**](https://github.com/saurabhshirole1)  | 💼 [**LinkedIn**](https://www.linkedin.com/in/saurabhshirole1/)  
 
 ---
 
