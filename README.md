@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Saurabh Shirole</h1>  
+<h3 align="center">🌟 Data Science Enthusiast | Turning Data into Intelligent Insights</h3>  
 
-<!--
-**saurabhshirole1/saurabhshirole1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me  
+I'm a passionate **Data Science Enthusiast** who loves exploring data, uncovering insights, and building predictive models.  
+I believe in the power of data-driven decision making and continuously strive to enhance my skills in **AI, ML, and Deep Learning**.  
+Currently, I’m exploring **Generative AI** and **Computer Vision** to push the boundaries of what machines can understand.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Technical Skills  
+
+- 💻 **Programming:** Python, SQL  
+- 📊 **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI  
+- 🤖 **Machine Learning:** Scikit-learn, Regression, Classification, Clustering  
+- 🧬 **Deep Learning:** TensorFlow, Keras  
+- 💬 **Natural Language Processing (NLP)**  
+- 👁️ **Computer Vision**  
+- 🧠 **Generative AI (Gen AI)**  
+- 🔍 **Exploratory Data Analysis (EDA)**  
+
+---
+
+### 🚀 Featured Projects  
+
+- 🧩 **Customer Churn Analysis Dashboard** – Built an interactive Power BI dashboard to analyze churn trends and customer retention strategies.  
+- 🌍 **Worldwide Energy Consumption Analysis** – Explored global energy usage patterns and visualized consumption trends using Python.  
+- 🏏 **Cricket Performance Analysis** – Performed EDA on ODI Cricket data to uncover insights about player performance and consistency.  
+
+---
+
+### 📫 Connect With Me  
+
+🌐 [**GitHub**](https://github.com/saurabhshirole1)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/saurabh-shirole-19136a361/)  
+
+---
+
+### ⚡ GitHub Stats & Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhks001&show_icons=true&theme=tokyonight&hide_border=true" alt="Saurabh's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhks001&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=saurabhks001&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saurabhks001&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 💡 Fun Fact  
+> “Data is the new oil, but insight is the spark that sets it into action.” 
+
+⭐ **Always learning, always building — one dataset at a time.**
