@@ -40,12 +40,12 @@ Currently, I’m exploring **Generative AI** and **Computer Vision** to push the
 ### ⚡ GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhks001&show_icons=true&theme=tokyonight&hide_border=true" alt="Saurabh's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhks001&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhshirole1&show_icons=true&theme=tokyonight&hide_border=true" alt="Saurabh's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhshirole1&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=saurabhks001&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=saurabhshirole1&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ Currently, I’m exploring **Generative AI** and **Computer Vision** to push the
 ### 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saurabhks001&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saurabhshirole1&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
