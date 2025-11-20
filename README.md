@@ -53,7 +53,7 @@ Currently, I’m exploring **Generative AI** and **Computer Vision** to push the
 ### 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saurabhshirole1&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saurabhshirole1&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 ---
