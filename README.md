@@ -33,20 +33,32 @@ Currently, I’m exploring **Generative AI** and **Computer Vision** to push the
 
 ### 📫 Connect With Me  
 
-🌐 [**GitHub**](https://github.com/saurabhshirole1)  | 💼 [**LinkedIn**](https://www.linkedin.com/in/saurabhshirole1/)  | 📧 Email saurabhshirole1@gmail.com 
+🌐 [**GitHub**](https://github.com/saurabhshirole1)  | 💼 [**LinkedIn**](https://www.linkedin.com/in/saurabhshirole1) | 📧 Email saurabhshirole1@gmail.com 
+
+---
+
+### ⚡ GitHub Stats & Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhshirole1&show_icons=true&theme=tokyonight&hide_border=true" alt="Saurabh's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhshirole1&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=saurabhshirole1&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saurabhshirole1&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=saurabhshirole1&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
-
 
 ---
 
 ### 💡 Fun Fact  
-> “Data is the new oil, but insight is the spark that sets it into action.” 
+> “Data is the new oil, but insight is the spark that sets it ablaze.”  
 
 ⭐ **Always learning, always building — one dataset at a time.**
