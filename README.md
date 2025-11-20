@@ -50,11 +50,18 @@ Currently, I’m exploring **Generative AI** and **Computer Vision** to push the
 
 ---
 
-### 🏆 GitHub Trophies  
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saurabhshirole1&theme=algolia&no-frame=true&column=4" width="100%" />
+  <img src="https://img.shields.io/badge/Trophies-View%20My%20Trophies-blue?style=for-the-badge" />
 </p>
+
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=saurabhshirole1&theme=onedark&no-frame=true&margin-w=10" target="_blank">
+    👉 Click here to view my GitHub Trophies
+  </a>
+</p>
+
 
 ---
 
