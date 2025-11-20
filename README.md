@@ -37,24 +37,8 @@ Currently, I’m exploring **Generative AI** and **Computer Vision** to push the
 
 ---
 
-### 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhshirole1&theme=github-dark-blue" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Trophies-View%20My%20Trophies-blue?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=saurabhshirole1&theme=onedark&no-frame=true&margin-w=10" target="_blank">
-    👉 Click here to view my GitHub Trophies
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=saurabhshirole1&theme=onedark&no-frame=true&margin-w=10&cache_seconds=86400" />
 </p>
 
 
