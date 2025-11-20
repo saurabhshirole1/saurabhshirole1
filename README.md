@@ -37,15 +37,10 @@ Currently, I’m exploring **Generative AI** and **Computer Vision** to push the
 
 ---
 
-### ⚡ GitHub Stats & Activity  
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhshirole1&show_icons=true&theme=tokyonight&hide_border=true" alt="Saurabh's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhshirole1&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=saurabhshirole1&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhshirole1&theme=github-dark-blue" />
 </p>
 
 ---
