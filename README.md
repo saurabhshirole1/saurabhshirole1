@@ -44,9 +44,9 @@ Currently, I’m exploring **Generative AI** and **Computer Vision** to push the
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhshirole1&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=saurabhshirole1&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+</p> -->
 
 ---
 
