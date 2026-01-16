@@ -13,13 +13,14 @@ Currently, I’m exploring **Generative AI** and **Computer Vision** to push the
 ### ⚙️ Technical Skills  
 
 - 💻 **Programming:** Python, SQL  
-- 📊 **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI  
+- 📊 **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
+- 🔍 **Exploratory Data Analysis (EDA)** 
 - 🤖 **Machine Learning:** Scikit-learn, Regression, Classification, Clustering  
 - 🧬 **Deep Learning:** TensorFlow, Keras  
 - 💬 **Natural Language Processing (NLP)**  
 - 👁️ **Computer Vision**  
 - 🧠 **Generative AI (Gen AI)**  
-- 🔍 **Exploratory Data Analysis (EDA)**  
+ 
 
 ---
 
