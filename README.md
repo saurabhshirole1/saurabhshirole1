@@ -28,7 +28,8 @@ Currently, I’m exploring **Generative AI** and **Computer Vision** to push the
 
 - 🧩 **Customer Churn Analysis Dashboard** – Built an interactive Power BI dashboard to analyze churn trends and customer retention strategies.  
 - 🌍 **Worldwide Energy Consumption Analysis** – Explored global energy usage patterns and visualized consumption trends using Python.  
-- 🏏 **Cricket Performance Analysis** – Performed EDA on ODI Cricket data to uncover insights about player performance and consistency.  
+- 🏏 **Cricket Performance Analysis** – Performed EDA on ODI Cricket data to uncover insights about player performance and consistency.
+- 🍷🤖 **Wine Quality Analysis** – Machine learning–based wine quality classification using Random Forest, featuring data analysis, model training, and Streamlit deployment.
 
 ---
 
